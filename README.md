@@ -1,4 +1,4 @@
-# Pathfinding-R
+# Pathfinding-Robot
 Obstacle avoidance and pathfinding robot done in freshman year.
 
 I don't have footage of the final demo where our robot navigated through an obstacle course trying to get to its target coordinates, but here are some pictures and a video from our preliminary testing.
